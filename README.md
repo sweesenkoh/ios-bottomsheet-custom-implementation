@@ -1,6 +1,6 @@
 # Custom iOS Bottom Sheet
 
-This project presents a custom implementation designed to mimic the behavior and appearance of the iOS system bottom sheet. Typically, to implement such feature, we would use the `UISheetPresentationController` API, but it is only available from iOS 15 onwards. This project is created to support this feature for older iOS versions. It provides a flexible and easy-to-use solution for adding bottom sheet functionality to your iOS applications, with additional features such as drag-to-dismiss and scroll view handling.
+This project introduces a custom bottom sheet implementation that emulates iOS's native bottom sheet behavior, extending support to iOS versions prior to iOS 15. By bypassing the limitations of UISheetPresentationController, which is only available from iOS 15 and later, this solution offers a versatile and straightforward method to incorporate bottom sheet functionality into iOS applications. 
 
 ## Demo
 
